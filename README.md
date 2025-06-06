@@ -17,7 +17,9 @@ O sistema inicia pelo arquivo interface.py, que exibe a tela de login com opçã
 
 Administradores têm acesso a uma área exclusiva onde podem visualizar, editar e excluir contas de usuários e outros administradores. Também podem cadastrar novos admins. Todas as ações feitas por administradores são registradas em um sistema de logs, permitindo rastrear alterações e garantir transparência. Isso assegura maior controle sobre o sistema e sua integridade.
 
-Para acessar o banco de dados, é recomendável usar o DB Browser SQL.
+Para acessar o banco de dados, é recomendável usar o DB Browser for SQLite.
 
-Para acessar as funcionalidades de adm, logue com o usuário Adm1, senha:12345678.
+Para acessar as funcionalidades de adm, logue com o login adm1, senha:1234#@Aa
+
+Para acessar as funcionalidades de usuário, logue com login usuario1, senha:1234.#Sd (ou cadastre um novo usuário).
 
