@@ -1,2 +1,0 @@
-Terminado todo o processo de back-end
-Concluindo a parte de front-end para entrega do trabalho.
