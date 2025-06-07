@@ -3,7 +3,7 @@ import re
 
 def validar_nome(nome):
     nome = nome.strip()
-    return nome.replace(" ", "").isalpha() and 8 <= len(nome) <= 20
+    return nome.replace(" ", "").isalpha() and 8 <= len(nome) <= 40
 
 def validar_texto(texto):
     texto = texto.strip()
